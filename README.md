@@ -18,11 +18,7 @@ I'm a passionate Data Engineer focused on building scalable, secure data pipelin
 
 ### 📂 Featured Projects
 - **[Car Sales Analytics - Medallion Architecture](https://github.com/jeromedayrit/rg-salescars-adeproject)**  
-  **End-to-end pipeline**
-   - Github, Azure DevOps repo
-   - ADF, ADLS, Databricks, Synapse
-   - Incremental, CDC, SCD Type
-   - Power BI using Delta Lake
+This project implements a modern data platform using the Medallion Architecture (Bronze, Silver, and Gold layers) to process and analyze car sales data. It simulates an end-to-end data pipeline that ingests raw data, applies transformations, and delivers curated, business-ready insights. The solution is designed to showcase best practices in data engineering, Delta Lake, and Azure-based architecture, providing stakeholders with high-quality, governed data for reporting and decision-making
 
 ### 🔧 Tech Stack
 
