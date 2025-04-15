@@ -20,7 +20,7 @@ I'm a passionate Data Engineer focused on building scalable, secure data pipelin
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/>
   <img src="https://img.icons8.com/ios-filled/50/EA1D1D/oracle-logo.png" alt="Oracle" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="40"/>
@@ -33,6 +33,7 @@ I'm a passionate Data Engineer focused on building scalable, secure data pipelin
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40"/>
 </p>
+
 
 
 ### 🔧 Data Engineer Tech Stack
