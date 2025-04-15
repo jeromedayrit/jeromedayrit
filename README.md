@@ -36,7 +36,8 @@ I'm a passionate Data Engineer focused on building scalable, secure data pipelin
 
 ### 🔧 Data Engineer Tech Stack
 - ☁️ Azure (Data Factory, Synapse, ADLS, Databricks, Key Vault)
-- 🧱 Delta Lake | Medallion Architecture
+- 🧱 Delta Lake | Medallion Architecture | Unity Catalog
+- ♻️ Incremental Loads | SCD Type Handling | CDC (Change Data Capture)
 - 📊 Power BI | SQL Server | Spark
 - ⚙️ CI/CD with Azure DevOps
 
